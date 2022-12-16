@@ -1,1 +1,0 @@
-# sikkeworld.github.io
