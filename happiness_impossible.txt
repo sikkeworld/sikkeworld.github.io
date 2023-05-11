@@ -1,1 +1,11 @@
-TODO
+2D plot:
+- X axis is time.
+- Y axis is the amount of appreciated stuff:
+  - Curve 1: That you have.
+  - Curve 2: That you got used to.
+
+Example: sin and cos
+
+Theory: The total signed area between 2 curves over time will approach to zero as time goes to infinity
+
+gg
