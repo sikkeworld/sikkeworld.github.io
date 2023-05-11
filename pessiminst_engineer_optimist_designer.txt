@@ -1,1 +1,3 @@
-TODO
+Engineer: All combinations need to work -> Worst case analysis
+Designer: One combination needs to be great -> Best case analysis
+gg
